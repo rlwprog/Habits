@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="createObjectInstructionText">
+        <item name="android:layout_marginStart">@dimen/new_task_instruction_margin_sides</item>
+        <item name="android:layout_marginTop">@dimen/new_task_instruction_margin_top</item>
+        <item name="android:layout_marginEnd">@dimen/new_task_instruction_margin_sides</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/new_task_instruction_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="createTaskInput">
+        <item name="android:layout_marginStart">@dimen/create_task_input_margin_sides</item>
+        <item name="android:layout_marginTop">@dimen/create_task_input_margin_top</item>
+        <item name="android:layout_marginEnd">@dimen/create_task_input_margin_sides</item>
+        <item name="android:inputType">text</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/create_task_input_text_size</item>
+    </style>
+
+    <style name="createTaskButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/create_task_button_margin_top</item>
+        <item name="android:padding">@dimen/create_task_button_padding</item>
+        <item name="android:textSize">@dimen/create_task_button_text_size</item>
+    </style>
+</resources>

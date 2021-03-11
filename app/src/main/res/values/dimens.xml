@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="new_task_instruction_margin_top">60dp</dimen>
+    <dimen name="new_task_instruction_margin_sides">20dp</dimen>
+    <dimen name="new_task_instruction_text_size">40sp</dimen>
+    <dimen name="create_task_button_margin_top">60dp</dimen>
+    <dimen name="create_task_button_text_size">32sp</dimen>
+    <dimen name="create_task_button_padding">16dp</dimen>
+    <dimen name="create_task_input_text_size">30sp</dimen>
+    <dimen name="create_task_input_margin_top">60dp</dimen>
+    <dimen name="create_task_input_margin_sides">20dp</dimen>
+    <dimen name="text_item_padding">8dp</dimen>
+    <dimen name="new_task_button_margin">8dp</dimen>
+    <dimen name="new_task_button_text_size">16sp</dimen>
+</resources>

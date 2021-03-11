@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Habit</string>
+    <string name="create_a_new_task_insruction_text">Create a new Task</string>
+    <string name="create_task_button_text">Create</string>
+    <string name="create_task_input_hint_text">Enter task name</string>
+    <string name="new_task_button_text">New Task</string>
+    <string name="delete_all_tasks">Delete Tasks</string>
+</resources>
